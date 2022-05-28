@@ -12,5 +12,5 @@ console.log("Actual roll: " + roll);
 if (roll === 7 || roll === 8){
     console.log("Your number is: " + rigged);
 } else {
-    console.log(roll);
+    console.log("Your number is: " + roll);
 }
